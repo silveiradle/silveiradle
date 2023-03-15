@@ -29,8 +29,7 @@ I'm Leandro, a Police officer, Tech entusiast, Cyber Security student and Mobile
 <p align="center">
   
   
-- Contributing on: <a href="https://github.com/silveiradle?tab=followers">
-    <img src="https://img.shields.io/github/followers/silveiradle?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+- Follow me here on<a href="https://github.com/silveiradle"> GITHUB
   </a>
 
 
