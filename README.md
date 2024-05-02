@@ -24,28 +24,10 @@ I'm Leandro, a Police officer, Tech entusiast, Cyber Security student and Mobile
 >*"No matter how many lands I travel, God do not allow me to die without returning home." : Expeditionary's Song - Brazilian Army*
 
 
-## Find me on TCP/IP Application Layers🌎
-
-<p align="center">
-  
-  
-- Follow me here on<a href="https://github.com/silveiradle"> GITHUB
-  </a>
-
-
-- My life at: <a href="http://instagram.com/silveiradle">Instagram
-  </a>
-
- 
-</p>
-
-  
 ## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=silveiradle&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silveiradle&hide_progress=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silveiradle&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silveiradle&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
